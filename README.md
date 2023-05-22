@@ -9,7 +9,7 @@ but could potentially expand into other motorsports, e-sports, etc...
 ## Project Design / Structure
 
 A secondary purpose for Fantasy Points League is to serve as a test bed for exploring different technologies. To
-best support that goal the project will consistent of seperate frontend and backend implementations with separate
+best support that goal the project will consist of seperate frontend and backend implementations with separate
 repositories.
 
 The main feature list will be tracked in this repo and then each sub-project's README will list which features each
