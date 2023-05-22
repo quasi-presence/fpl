@@ -98,24 +98,26 @@ several technology stacks (e.g. JWT for authentication, websockets, etc...).
   * Warp (Rust) - TBD
 
 ## Features
-  * Join
-  * Login
-  * Logout
-  * View profile
-  * Update profile
-  * Create league
-  * View dashboard/leagues
-  * View league details
-  * Invite league members
-  * Create league event/schedule
-  * Member notifications
-    * Member picks
-    * Event results
-  * Enter event picks
-  * Enter event results
-  * Collect real league data via APIs or web scrapers
-    * Competitors
-    * Scheduled events
-    * Event results
-    * News
-  * TBD
+
+  * [ ] Home page
+  * [ ] Sign up
+  * [ ] Login
+  * [ ] Logout
+  * [ ] View dashboard
+  * [ ] View profile
+  * [ ] Update profile
+  * [ ] Create league
+  * [ ] View dashboard/leagues
+  * [ ] View league details
+  * [ ] Invite league members
+  * [ ] Create league event/schedule
+  * [ ] Member notifications
+    * [ ] Member picks
+    * [ ] Event results
+  * [ ] Select event picks
+  * [ ] Enter event results
+  * [ ] Collect real league data via APIs or web scrapers
+    * [ ] Competitors
+    * [ ] Scheduled events
+    * [ ] Event results
+  * [ ] TBD
